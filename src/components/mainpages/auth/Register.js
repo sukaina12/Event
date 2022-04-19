@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Header() {
+function Register() {
     return (
         <div>
-
+            Reg Component
         </div>
     )
 }
 
-export default Header
+export default Register
